@@ -8,8 +8,8 @@ df = pd.read_csv(r'C:\Users\manis\OneDrive\Desktop\Realtimevoice\data\raw\train_
 sample_df = df.sample(5)
 
 video_src_dir = r"D:\MELD\MELD.Raw\train\train_splits"
-video_dest_dir = r"data\sample\sample_train_audio"
-audio_dest_dir = r"data\sample\sample_train_videos"
+video_dest_dir = r"C:\Users\manis\OneDrive\Desktop\Realtimevoice\data\sample\sample_train_video"
+audio_dest_dir = r"C:\Users\manis\OneDrive\Desktop\Realtimevoice\data\sample\sample_audio_video"
 
 os.makedirs(video_dest_dir, exist_ok=True)
 os.makedirs(audio_dest_dir, exist_ok=True)
