@@ -8,7 +8,7 @@ It’s built using **Python**, **Streamlit**, and **OpenCV**, without relying on
 
 ### 🌐 Live Demo
 
-🚀 [Try it now on Streamlit Cloud](https://your-demo-link.streamlit.app)  
+🚀 Updating
 
 ---
 
